@@ -18,7 +18,7 @@ public class Medico {
     private String especialidade;
     private String email;
 
-    // Função do médico
+    // Metodo do medico
     public void visualizarAgenda() {
     }
 }
